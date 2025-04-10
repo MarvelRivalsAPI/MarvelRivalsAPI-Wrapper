@@ -1,0 +1,35 @@
+{
+  "name": "marvelrivalsapi",
+  "version": "1.0.0",
+  "description": "The Official Node.js Wrapper for MArvelRivalsAPI.com",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "marvel",
+    "rivals",
+    "api"
+  ],
+  "author": "Alastor",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "axios": "^1.6.8"
+  },
+  "devDependencies": {
+    "grunt": "^1.5.3",
+    "grunt-bump": "^0.8.0",
+    "grunt-cli": "^1.4.3"
+  }
+}
