@@ -33,6 +33,7 @@ This wrapper is ideal for developers building community tools, stat tracking sys
 npm install marvelrivalsapi
 ```
 
+
 ## Usage
 
 ```javascript
